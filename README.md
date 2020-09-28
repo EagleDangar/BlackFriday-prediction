@@ -26,28 +26,28 @@ below are the steps of CRISP-DM Process ,
 
 ------------
 
-[TOCM]
+[TOC]
 
 ## Python and  Libraries
 - Python 3.7+
 - pandas , scikit-learn, seaborn, XGBoost, jupyter notebook.
 
 ## File Structure
-.
-> 	├── README.md
-	├── blackfriday-insights-and-model.ipynb
-	├── images
-	│   ├── blackfriday-1.jpg
-	│   ├── blackfriday-2.jpg
-	│   └── blackfridaycanceled.jpg
-	├── kaggle
-	│   └── input
-	│       └── black-friday
-	│           ├── test.csv
-	│           └── train.csv
-	└── model
-		├── BFriday_XGB_Model_V1.pkl
-		└── BFriday_XGB_Model_V1_details.json
+
+        ├── README.md
+        ├── blackfriday-insights-and-model.ipynb
+        ├── images
+        │   ├── blackfriday-1.jpg
+        │   ├── blackfriday-2.jpg
+        │   └── blackfridaycanceled.jpg
+        ├── kaggle
+        │   └── input
+        │       └── black-friday
+        │           ├── test.csv
+        │           └── train.csv
+        └── model
+            ├── BFriday_XGB_Model_V1.pkl
+            └── BFriday_XGB_Model_V1_details.json
 
 - Directories
 	-  kaggle/input/black-friday/ :-  Contains all the data-sets
