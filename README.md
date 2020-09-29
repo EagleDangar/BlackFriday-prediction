@@ -4,10 +4,15 @@
 
 ![](https://raw.githubusercontent.com/EagleDangar/BlackFriday-prediction/master/images/blackfridaycanceled.jpg)
 
+## Table Of Contents
 
-------------
+  - [What is Black Friday ?](#what-is-black-friday-?)
+  - [Python and Libraries](#python-and-libraries)
+  - [File Structure](#file-structure)
+  - [Summary](#summary)
+  - [Acknowledgements](#acknowledgements)
 
-### What is Black Friday ?
+## What is Black Friday ?
 Black Friday is the day after Thanksgiving. Retailers typically offer steep discounts on Black Friday to kick off the holiday season.Black friday is the one of the most profitable days for all the retailers and for the buyers too. It's common for retailers to offer special promotions and open their doors during the pre-dawn hours on Black Friday to attract customers.
 
 To keep up with the competition, retailers need some insights and cluster of customers to segmantize and to target them. So, retailers can use different marketing strategies to attract different types of customers.
@@ -26,9 +31,7 @@ below are the steps of CRISP-DM Process ,
 
 ------------
 
-[TOC]
-
-## Python and  Libraries
+## Python and Libraries
 - Python 3.7+
 - pandas , scikit-learn, seaborn, XGBoost, jupyter notebook.
 
@@ -64,6 +67,8 @@ below are the steps of CRISP-DM Process ,
 
 
 ## Summary
+
+In summary, We went through each and every steps of **CRISP_DM**, did different types of analysis on the data, visualized the data with different types of charts and trained the model with different types of machine learning models to predict the purchase amount that user might spend on next black friday.
 
 
 ## Acknowledgements
