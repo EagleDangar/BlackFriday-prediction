@@ -1,4 +1,4 @@
-# Black Friday Profit Prediciton
+# Black Friday Insights and Prediction
 
 ------------
 
