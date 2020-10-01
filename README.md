@@ -4,6 +4,9 @@
 
 ![](https://raw.githubusercontent.com/EagleDangar/BlackFriday-prediction/master/images/blackfridaycanceled.jpg)
 
+## I also released my article on [Medium](https://medium.com/@mayur11061997/black-friday-insights-and-prediction-16933b8a8bfb).
+
+
 ## Table Of Contents
 
   - [What is Black Friday ?](#what-is-black-friday-?)
